@@ -1,2 +1,4 @@
 C:\Users\sshar\Desktop\ConsoleApplication2\Debug\ConsoleApplication2.exe
 C:\Users\sshar\Desktop\ConsoleApplication2\Debug\ConsoleApplication2.pdb
+F:\MyWork\Test\test1\ConsoleApplication2\Debug\ConsoleApplication2.exe
+F:\MyWork\Test\test1\ConsoleApplication2\Debug\ConsoleApplication2.pdb
